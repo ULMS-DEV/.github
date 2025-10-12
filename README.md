@@ -1,6 +1,6 @@
 ## API
 | Service | Repository |
 |-----:|---------------|
-|`gateway`|      https://github.com/ULMS-DEV/gateway         |
-|     2|               |
-|     3|               |
+|`gateway`|https://github.com/ULMS-DEV/gateway|
+|`user service`|https://github.com/ULMS-DEV/user-service|
+|`auth service`|https://github.com/ULMS-DEV/auth-service|
