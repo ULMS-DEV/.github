@@ -9,4 +9,4 @@
 ## AI
 | Agent | Repository |
 |-----:|---------------|
-|`assigments-agent`|https://github.com/ULMS-DEV/assigments-agent|
+|`assigments-agent`|https://github.com/ULMS-DEV/assignments-agent|
