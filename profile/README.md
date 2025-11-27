@@ -11,6 +11,7 @@
 |`Auth Service`|https://github.com/ULMS-DEV/auth-service|
 |`Course Service`|https://github.com/ULMS-DEV/course-service|
 |`Assignments Service`|https://github.com/ULMS-DEV/assignment-service|
+|`Exam Service`|https://github.com/ULMS-DEV/exam-service|
 
 ## AI
 | Agent | Repository |
