@@ -17,6 +17,7 @@
 | Agent | Repository |
 |-----:|---------------|
 |`Assigments Agent`|https://github.com/ULMS-DEV/assignments-agent|
+|`Proctoring Agent`|https://github.com/ULMS-DEV/proctor-agent|
 
 ## Frontend
 | Website | Repository |
